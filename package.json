@@ -1,6 +1,6 @@
 {
-  "name": "fyle-frontend-challenge",
-  "version": "0.0.0",
+  "name": "github-user-list",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
